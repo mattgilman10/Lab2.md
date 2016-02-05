@@ -53,6 +53,11 @@ I would choose a BSD license if I was a company, since you do not have to share 
 Common good I believe the best license would be GPL, since you share, change and redistribute everything. Less restrictions on this license, and you must give back all of the code you used or changed. 
 
 
+##### Table for projects and licenses
+
+![Table](Table.png)
+
+
 ##### Choose a project to work in this course and who will be users/customers and what license will you choose.
 
 The project I would like to work on in this course is called the Butter Project. This caters to any movie and tv watchers around the world. It is similar to an older application popcorn time. The users and creaters are developers who are most likely movie enthusiasts. The license used is GPU. This would be an interesting project that many who love movies would benefit from. 
