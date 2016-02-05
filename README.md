@@ -21,11 +21,6 @@ It is interesting, since at the time HTTP was picked, but now we are turning mor
 This is the project I looked at, Canadaduane/house. They have a MIT License. This license is used, since it is extremely open and has little to no restrictions. Gives the coders helping with the project more access and reason to assist in this project. Only requirement an MIT license places on its recipients is that they keep original coders copyright notice intact when they repurpose, redistribute, or otherwise reuse original persons code. You can build a business that sells larger, proprietary applications built out of smaller, open source components without the fear of imitators purchasing and re-selling your product. 
 
 
-##### Think of an example project. Pick a license 
-
-Done
-
-
 ##### GPL
 
 The GNU General Public License (GNU GPL or GPL) is a widely used free software license, which guarantees end users (individuals, organizations, companies) the freedoms to run, study, share (copy), and modify the software.
